@@ -1,14 +1,16 @@
 [package]
 name = "io-result-optional"
-version = "0.0.1-PRE"
+version = "0.1.1"
 authors = ["Rasmus Kaj <kaj@kth.se>"]
 description = "Provide an optional() method for io::Result."
+documentation = "https://docs.rs/io-result-optional"
 repositor = "https://github.com/kaj/io-result-optional"
 readme = "README.md"
+license = "MIT"
 edition = "2018"
 
 [badges]
 travis-ci = { repository = "kaj/io-result-optional" }
-maintenence = { status = "experimental" }
+maintenance = { status = "experimental" }
 
 [dependencies]
