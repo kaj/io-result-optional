@@ -1,0 +1,13 @@
+[package]
+name = "io-result-optional"
+version = "0.0.1-PRE"
+authors = ["Rasmus Kaj <kaj@kth.se>"]
+description = "Provide an optional() method for io::Result."
+repositor = "https://github.com/kaj/io-result-optional"
+readme = "README.md"
+edition = "2018"
+
+[badges]
+maintenence = { status = "experimental" }
+
+[dependencies]
