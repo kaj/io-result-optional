@@ -5,6 +5,8 @@ that adds a method making it easy to tell the difference between a
 file not found and another error, since a common practice is to handle
 a file if it exists.
 
+[![Build Status](https://travis-ci.org/kaj/io-result-optional.svg?branch=master)](https://travis-ci.org/kaj/io-result-optional)
+
 ````rust
 if let Some(input) = File::open("data").optional()? {
     // The data exists, so handle it ...
