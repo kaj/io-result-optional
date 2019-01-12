@@ -1,10 +1,10 @@
 [package]
 name = "io-result-optional"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Rasmus Kaj <kaj@kth.se>"]
 description = "Provide an optional() method for io::Result."
 documentation = "https://docs.rs/io-result-optional"
-repositor = "https://github.com/kaj/io-result-optional"
+repository = "https://github.com/kaj/io-result-optional"
 readme = "README.md"
 license = "MIT"
 edition = "2018"
